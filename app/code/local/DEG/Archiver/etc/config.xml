@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <DEG_Archiver>
+            <version>0.1.0</version>
+        </DEG_Archiver>
+    </modules>
+    <global>
+        <helpers>
+            <DEG_Archiver>
+                <class>DEG_Archiver_Helper</class>
+            </DEG_Archiver>
+        </helpers>
+    </global>
+</config>
