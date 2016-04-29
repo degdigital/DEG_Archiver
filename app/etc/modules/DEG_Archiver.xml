@@ -3,7 +3,7 @@
     <modules>
         <DEG_Archiver>
             <active>true</active>
-            <codePool>local</codePool>
+            <codePool>community</codePool>
         </DEG_Archiver>
     </modules>
 </config>
