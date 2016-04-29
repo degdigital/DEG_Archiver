@@ -1,0 +1,24 @@
+{
+  "name": "deg/archiver",
+  "type": "magento-module",
+  "description": "Magento 1 Module for Archiving var subdirectories and logs",
+  "homepage": "https://github.com/degdigital/DEG_Archiver",
+  "support": {
+    "email": "support@example.com",
+    "issues": "https://github.com/degdigital/DEG_Archiver/issues",
+    "wiki": "https://github.com/degdigital/DEG_Archiver/wiki",
+    "source": "https://github.com/degdigital/DEG_Archiver"
+  },
+  "require": {
+    "magento-hackathon/magento-composer-installer":"*"
+  },
+  "require-dev": {
+    "ivanchepurnyi/ecomdev_phpunit":"*"
+  },
+  "extra":{
+    "map":[
+      ["app/code/local/DEG/Archiver/", "app/code/local/DEG/Archiver/"],
+      ["app/etc/modules/DEG_Archiver.xml", "app/etc/modules/DEG_Archiver.xml"]
+    ]
+  }
+}
