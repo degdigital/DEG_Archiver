@@ -17,7 +17,7 @@
   },
   "extra":{
     "map":[
-      ["app/community/local/DEG/Archiver/", "app/community/local/DEG/Archiver/"],
+      ["app/community/DEG/Archiver/", "app/community/DEG/Archiver/"],
       ["app/etc/modules/DEG_Archiver.xml", "app/etc/modules/DEG_Archiver.xml"]
     ]
   }
