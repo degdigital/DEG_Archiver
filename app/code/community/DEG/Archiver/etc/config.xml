@@ -12,4 +12,11 @@
             </DEG_Archiver>
         </helpers>
     </global>
+    <phpunit>
+        <suite>
+            <modules>
+                <DEG_Archiver/>
+            </modules>
+        </suite>
+    </phpunit>
 </config>
